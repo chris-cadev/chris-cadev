@@ -6,7 +6,7 @@
 - Have a skill set in **UI** using **Sass and CSS** (and basic skills in UX).
 - Avid enthusiast to use **Docker** and **Kubernetes** (in progress).
 
-## Programming languages experienced
+## Experienced Languages
 - Go
 - TypeScript, JavaScript
 - Python
