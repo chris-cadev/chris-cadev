@@ -14,7 +14,8 @@
 - Java
 - C++
 
-<!---
-chris-cadev/chris-cadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My socials
+- [Linkedin](https://www.linkedin.com/in/christian-camacho-689362162/) 
+- [GitLab](https://gitlab.com/chris-cadev)
+- [YouTube - hobby](https://www.youtube.com/channel/UCa4ug_MCVKZZOxcnAuht8Lg)
+- [YouTube - personal](https://www.youtube.com/channel/UCTK8IQDxCOol_gm785EuvqQ)
