@@ -1,4 +1,4 @@
-## Objective
+## Persona description
 As a software engineer, I am passionate about solving problems to make the world a better place. I have a keen eye for detail and always keep in mind the impact that technology has on humans, the world, and nature.
 
 ## Technical Skills
@@ -25,7 +25,7 @@ As a software engineer, I am passionate about solving problems to make the world
 - Worked on various projects with a focus on **user experience** 🤝
 
 ## Contact
-📧 chris.camacho.dev@gmail.com | 🔗 [Linkedin](https://www.linkedin.com/in/chriscadev/)
+📧 chris.camacho.dev@gmail.com | 🔗 [Linkedin](https://www.linkedin.com/in/chriscadev/) | [schedule a meeting](https://calendly.com/chris_cadev/interview)
 
 ## State of mind (2023-03-09)
 As a software engineer, I am acutely aware of the impact that technology has on our world. While technology can provide tremendous benefits, it can also have negative consequences if not designed and used responsibly. For instance, poorly designed software can be frustrating and confusing for users, negatively impacting their experience and productivity. Furthermore, technology can consume vast amounts of energy and resources, contributing to climate change and environmental degradation.
