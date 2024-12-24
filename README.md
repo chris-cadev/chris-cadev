@@ -1,14 +1,14 @@
 ## Technical Skills
 - **Languages:**
-	- TypeScript/Javascript 🌐 (6 years)
-	- Bash/Zsh/Sh 🐚 (3 years)
-	- Python 🐍 (3 years)
-	- Java ☕️ (1 year)
-	- Go 🐹 (6 months)
+	- 🌐 TypeScript/Javascript (6 years)
+	- 🐚 Bash/Zsh/Sh (3 years)
+	- 🐍 Python (3 years)
+	- ☕️ Java (1 year)
+	- 🐹 Go (6 months)
 - **UI Skills:**
-	- [Styled Components](https://styled-components.com) 💅 
-	- CSS 🎨
-	- [Sass](https://sass-lang.com) 💄
-- **Experience in UX:** understanding how to achieve goals with a user-centered approach 🤝
-- **Design skills:** work in progress 🚧
-- **Git:** used in every personal or professional project 🌱
+	- 💅 [Styled Components](https://styled-components.com) 
+	- 🎨 CSS
+	- 💄 [Sass](https://sass-lang.com)
+- 🤝 **Experience in UX:** understanding how to achieve goals with a user-centered approach
+- 🚧 **Design skills:** work in progress
+- 🌱 **Git:** used in every personal or professional project
