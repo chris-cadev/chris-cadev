@@ -1,13 +1,13 @@
 ## Technical Skills
 - **Languages:**
-	- 🌐 TypeScript/Javascript (6 years)
-	- 🐚 Bash/Zsh/Sh (3 years)
-	- 🐍 Python (3 years)
-	- ☕️ Java (1 year)
-	- 🐹 Go (6 months)
+	- 🌐 TypeScript/Javascript
+	- 🐚 Bash/Zsh/Sh
+	- 🐍 Python 
+	- ☕️ Java 
+	- 🐹 Go 
 - **UI Skills:**
 	- 💅 [Styled Components](https://styled-components.com) 
-	- 🎨 CSS
+	- 🎨 [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 	- 💄 [Sass](https://sass-lang.com)
 - 🤝 **Experience in UX:** understanding how to achieve goals with a user-centered approach
 - 🚧 **Design skills:** work in progress
