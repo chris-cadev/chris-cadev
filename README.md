@@ -1,14 +1,15 @@
 ## Technical Skills
 - **Languages:**
+ 	- 🏢 C#
 	- 🌐 TypeScript/Javascript
+	- 🐍 Python
+	- 🐹 Go
 	- 🐚 Bash/Zsh/Sh
-	- 🐍 Python 
-	- ☕️ Java 
-	- 🐹 Go 
+	- ☕️ Java
 - **UI Skills:**
-	- 💅 [Styled Components](https://styled-components.com) 
 	- 🎨 [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 	- 💄 [Sass](https://sass-lang.com)
+	- 💅 [Styled Components](https://styled-components.com)
 - 🤝 **Experience in UX:** understanding how to achieve goals with a user-centered approach
 - 🚧 **Design skills:** work in progress
 - 🌱 **Git:** used in every personal or professional project
