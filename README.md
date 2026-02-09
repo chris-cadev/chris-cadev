@@ -1,11 +1,11 @@
 ## Technical Skills
 - **Languages:**
  	- 🏢 C#
+	- 🐹 Go
+	- ☕️ Java
 	- 🌐 TypeScript/Javascript
 	- 🐍 Python
-	- 🐹 Go
 	- 🐚 Bash/Zsh/Sh
-	- ☕️ Java
 - **UI Skills:**
 	- 🎨 [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 	- 💄 [Sass](https://sass-lang.com)
