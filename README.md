@@ -1,6 +1,6 @@
 ## Christian Camacho
 
-I have fun fooling around with my brain... and computers.
+I like building things for business, learning, and fun.
 
 Currently playing with:
 
