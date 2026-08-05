@@ -2,8 +2,6 @@
 
 I have fun fooling around with my brain... and computers.
 
-![rainbow](assets/rainbow.svg)
-
 Currently playing with:
 
 - [knowledge-os](https://github.com/chris-cadev/knowledge-os)
